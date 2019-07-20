@@ -1,0 +1,14 @@
+E:\Test\TestApp\TestApp\bin\Debug\TestApp.exe.config
+E:\Test\TestApp\TestApp\bin\Debug\TestApp.exe
+E:\Test\TestApp\TestApp\bin\Debug\TestApp.pdb
+E:\Test\TestApp\TestApp\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+E:\Test\TestApp\TestApp\obj\Debug\TestApp.exe
+E:\Test\TestApp\TestApp\obj\Debug\TestApp.pdb
+E:\Test\TestApp\TestApp\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+E:\VisionFriendly\VisionFriendlyChallenge\TestApp\bin\Debug\TestApp.exe.config
+E:\VisionFriendly\VisionFriendlyChallenge\TestApp\bin\Debug\TestApp.exe
+E:\VisionFriendly\VisionFriendlyChallenge\TestApp\bin\Debug\TestApp.pdb
+E:\VisionFriendly\VisionFriendlyChallenge\TestApp\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+E:\VisionFriendly\VisionFriendlyChallenge\TestApp\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+E:\VisionFriendly\VisionFriendlyChallenge\TestApp\obj\Debug\TestApp.exe
+E:\VisionFriendly\VisionFriendlyChallenge\TestApp\obj\Debug\TestApp.pdb

@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+label.error {
+    color: #a94442;
+    font-weight: bold;
+}
+
+input.error, select.error, textarea.error {
+    border: 1px red solid;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+

@@ -1,0 +1,17 @@
+E:\Test\TestApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Test\TestApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Test\TestApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Test\TestApp\UnitTestProject\bin\Debug\UnitTestProject.dll
+E:\Test\TestApp\UnitTestProject\bin\Debug\UnitTestProject.pdb
+E:\Test\TestApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Test\TestApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Test\TestApp\UnitTestProject\bin\Debug\TestApp.exe
+E:\Test\TestApp\UnitTestProject\bin\Debug\TestApp.pdb
+E:\Test\TestApp\UnitTestProject\bin\Debug\TestApp.exe.config
+E:\Test\TestApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Test\TestApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Test\TestApp\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+E:\Test\TestApp\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+E:\Test\TestApp\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+E:\Test\TestApp\UnitTestProject\obj\Debug\UnitTestProject.dll
+E:\Test\TestApp\UnitTestProject\obj\Debug\UnitTestProject.pdb
